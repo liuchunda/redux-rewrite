@@ -12,5 +12,5 @@ ReactDOM.render(
     </div>
   </Provider>
   ,
-  document.getElementById('root')
+  document./* getElementById */('root')
 );
