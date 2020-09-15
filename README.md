@@ -9,6 +9,7 @@
 代码内容是手写redux和react-redux。
 
 目录结构：
+```
 src
 ├── component  <!-- react组件，展示了redux 和react-redux的用法 -->
 │   ├── Color.js 
@@ -32,3 +33,4 @@ src
     ├── action-types.js
     ├── index.js
     └── reducer
+```
